@@ -1,12 +1,12 @@
 ---
-title: The Strong Triceratops
+title: The Strong Triceratop
 layout: post
 author: davidbeasley1867
 permalink: /the-strong-triceratops/
 source-id: 12i74TyvRPiLDBWeSco42bACZ-Ecru_ay4K0a2y7kOwY
 published: true
 ---
-The Strong Triceratops
+The Strong Triceratop
 
 ![image alt text]({{ site.url }}/public/k5xpyGXLqLOTca5JX2kw_img_0.png)
 
@@ -78,7 +78,7 @@ The Parents Are Found
 
      The baby had crossed mountains and done a few amazing things.  Now since this is the final chapter I wanted to get done with it.  let's go!  "Ok guys."  Said the baby triceratop.  “We need to get to the fields.  That is the place that the parents are.”  “Yay for you whatever your name is.”  Said the others.  “Let's run to get to the fields quickly.”  He said in a quiet voice.  They all started running and then they had got to the fields.  All of the parents saw them and realised they were one of their sons or daughters.  The parents started running for their children.  “We have missed you kids.”  Said the parents why they sobbed quietly.  Once the babies pointed to the one that had saved them and taken  them to their parents he was gone.  He had gone on a different adventure but that is another book…     Which is the next book!     Will he save Gracie the cat from Face Rig.  Find out in…
 
-The Strong Triceratops 2,
+The Strong Triceratop 2,
 
 Saving Gracie.  
 
