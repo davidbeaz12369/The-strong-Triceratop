@@ -1,14 +1,38 @@
 ---
 title: The Strong Triceratop
 layout: post
-author: davidbeasley1867
+author: David Beasley
 permalink: /the-strong-triceratops/
+tags:
+- first book of the series
 source-id: 12i74TyvRPiLDBWeSco42bACZ-Ecru_ay4K0a2y7kOwY
 published: true
 ---
 The Strong Triceratop
 
 ![image alt text]({{ site.url }}/public/k5xpyGXLqLOTca5JX2kw_img_0.png)
+
+Contents
+
+1. The Nice Dinosaur
+
+2. The Other Abandoned Adorable Triceratops
+
+3. The Triceratops Unite
+
+4. The T. Rex Plans
+
+5. The Talking Fight
+
+6. The Baby Triceratops Find His Meaning In Life
+
+7. The Tall Mountains
+
+8. The Triceratop Stomp
+
+9. The Dinosaur Ages
+
+10. The Parents Are Found
 
 Introduction
 
@@ -50,7 +74,7 @@ Your back.  You needed to be or else you would miss the other part of Chapter 5 
 
 Chapter 6
 
-The Baby Triceratops Finds His Meaning in Life
+The Baby Triceratop Finds His Meaning in Life
 
            The baby triceratop would soon figure out that his meaning in life which is to help all triceratops who are trying to find the most special place, home.  The baby freed his friends and walked up to the T. Rexes. They got scared and ran away but it was too late.  Just then all of the triceratops tackled and stabbed the T. Rexes and they died.  "Now let's go find your parents herd."  Said the baby in a small voice.  Now he had found his meaning in life and would always remember it.  He went on other adventures but this story is not is not over.  There is more to the story than you think.  The baby still had to go on an adventure to find the parents to the triceratops.
 
